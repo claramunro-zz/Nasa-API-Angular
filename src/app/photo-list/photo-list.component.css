@@ -1,0 +1,10 @@
+img {
+  height: 600px;
+  width: 600px;
+  padding: 3em;
+  border: 1px solid rgb(223, 223, 223);
+}
+
+.photo {
+  object-fit: cover;
+}
